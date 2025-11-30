@@ -3,8 +3,8 @@ bindPort = 7000
 #kcpBindPort = 7000
 quicBindPort = 7000
 
-vhostHTTPPort = 80
-vhostHTTPSPort = 443
+vhostHTTPPort = 580
+vhostHTTPSPort = 5443
 
 transport.maxPoolCount = 2000
 transport.tcpMux = true
